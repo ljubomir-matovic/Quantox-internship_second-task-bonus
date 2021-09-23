@@ -61,6 +61,7 @@ main {
 .answer {
     max-height:0;
     transition: .8s;
+    overflow:hidden;
 }
 .answer.active {
     max-height:4em;
